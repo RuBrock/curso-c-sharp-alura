@@ -1,0 +1,7 @@
+C:\Users\LS8310534056\Desktop\LITTLE PROJECTS\curso-c-sharp-alura\aulas1_6\3-CriandoVariaveisPontoFlutuante\bin\Debug\3-CriandoVariaveisPontoFlutuante.exe.config
+C:\Users\LS8310534056\Desktop\LITTLE PROJECTS\curso-c-sharp-alura\aulas1_6\3-CriandoVariaveisPontoFlutuante\bin\Debug\3-CriandoVariaveisPontoFlutuante.exe
+C:\Users\LS8310534056\Desktop\LITTLE PROJECTS\curso-c-sharp-alura\aulas1_6\3-CriandoVariaveisPontoFlutuante\bin\Debug\3-CriandoVariaveisPontoFlutuante.pdb
+C:\Users\LS8310534056\Desktop\LITTLE PROJECTS\curso-c-sharp-alura\aulas1_6\3-CriandoVariaveisPontoFlutuante\obj\Debug\3-CriandoVariaveisPontoFlutuante.csprojAssemblyReference.cache
+C:\Users\LS8310534056\Desktop\LITTLE PROJECTS\curso-c-sharp-alura\aulas1_6\3-CriandoVariaveisPontoFlutuante\obj\Debug\3-CriandoVariaveisPontoFlutuante.csproj.CoreCompileInputs.cache
+C:\Users\LS8310534056\Desktop\LITTLE PROJECTS\curso-c-sharp-alura\aulas1_6\3-CriandoVariaveisPontoFlutuante\obj\Debug\3-CriandoVariaveisPontoFlutuante.exe
+C:\Users\LS8310534056\Desktop\LITTLE PROJECTS\curso-c-sharp-alura\aulas1_6\3-CriandoVariaveisPontoFlutuante\obj\Debug\3-CriandoVariaveisPontoFlutuante.pdb

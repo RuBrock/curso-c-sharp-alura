@@ -1,0 +1,7 @@
+C:\Users\LS8310534056\Desktop\LITTLE PROJECTS\curso-c-sharp-alura\aulas1_6\2-CriandoVariaveis\bin\Debug\2-CriandoVariaveis.exe.config
+C:\Users\LS8310534056\Desktop\LITTLE PROJECTS\curso-c-sharp-alura\aulas1_6\2-CriandoVariaveis\bin\Debug\2-CriandoVariaveis.exe
+C:\Users\LS8310534056\Desktop\LITTLE PROJECTS\curso-c-sharp-alura\aulas1_6\2-CriandoVariaveis\bin\Debug\2-CriandoVariaveis.pdb
+C:\Users\LS8310534056\Desktop\LITTLE PROJECTS\curso-c-sharp-alura\aulas1_6\2-CriandoVariaveis\obj\Debug\2-CriandoVariaveis.csprojAssemblyReference.cache
+C:\Users\LS8310534056\Desktop\LITTLE PROJECTS\curso-c-sharp-alura\aulas1_6\2-CriandoVariaveis\obj\Debug\2-CriandoVariaveis.csproj.CoreCompileInputs.cache
+C:\Users\LS8310534056\Desktop\LITTLE PROJECTS\curso-c-sharp-alura\aulas1_6\2-CriandoVariaveis\obj\Debug\2-CriandoVariaveis.exe
+C:\Users\LS8310534056\Desktop\LITTLE PROJECTS\curso-c-sharp-alura\aulas1_6\2-CriandoVariaveis\obj\Debug\2-CriandoVariaveis.pdb
