@@ -1,0 +1,6 @@
+C:\Users\LS8310534056\Desktop\LITTLE PROJECTS\curso-c-sharp-alura\aulas1_6\P13-LacoDeRepeticaoFor3\bin\Debug\P13-LacoDeRepeticaoFor3.exe.config
+C:\Users\LS8310534056\Desktop\LITTLE PROJECTS\curso-c-sharp-alura\aulas1_6\P13-LacoDeRepeticaoFor3\bin\Debug\P13-LacoDeRepeticaoFor3.exe
+C:\Users\LS8310534056\Desktop\LITTLE PROJECTS\curso-c-sharp-alura\aulas1_6\P13-LacoDeRepeticaoFor3\bin\Debug\P13-LacoDeRepeticaoFor3.pdb
+C:\Users\LS8310534056\Desktop\LITTLE PROJECTS\curso-c-sharp-alura\aulas1_6\P13-LacoDeRepeticaoFor3\obj\Debug\P13-LacoDeRepeticaoFor3.csproj.CoreCompileInputs.cache
+C:\Users\LS8310534056\Desktop\LITTLE PROJECTS\curso-c-sharp-alura\aulas1_6\P13-LacoDeRepeticaoFor3\obj\Debug\P13-LacoDeRepeticaoFor3.exe
+C:\Users\LS8310534056\Desktop\LITTLE PROJECTS\curso-c-sharp-alura\aulas1_6\P13-LacoDeRepeticaoFor3\obj\Debug\P13-LacoDeRepeticaoFor3.pdb

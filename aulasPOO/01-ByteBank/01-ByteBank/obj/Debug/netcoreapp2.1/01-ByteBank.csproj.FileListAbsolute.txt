@@ -1,0 +1,11 @@
+C:\Users\LS8310534056\Desktop\LITTLE PROJECTS\curso-c-sharp-alura\aulasPOO\01-ByteBank\01-ByteBank\bin\Debug\netcoreapp2.1\01-ByteBank.deps.json
+C:\Users\LS8310534056\Desktop\LITTLE PROJECTS\curso-c-sharp-alura\aulasPOO\01-ByteBank\01-ByteBank\bin\Debug\netcoreapp2.1\01-ByteBank.runtimeconfig.json
+C:\Users\LS8310534056\Desktop\LITTLE PROJECTS\curso-c-sharp-alura\aulasPOO\01-ByteBank\01-ByteBank\bin\Debug\netcoreapp2.1\01-ByteBank.runtimeconfig.dev.json
+C:\Users\LS8310534056\Desktop\LITTLE PROJECTS\curso-c-sharp-alura\aulasPOO\01-ByteBank\01-ByteBank\bin\Debug\netcoreapp2.1\01-ByteBank.dll
+C:\Users\LS8310534056\Desktop\LITTLE PROJECTS\curso-c-sharp-alura\aulasPOO\01-ByteBank\01-ByteBank\bin\Debug\netcoreapp2.1\01-ByteBank.pdb
+C:\Users\LS8310534056\Desktop\LITTLE PROJECTS\curso-c-sharp-alura\aulasPOO\01-ByteBank\01-ByteBank\obj\Debug\netcoreapp2.1\01-ByteBank.csprojAssemblyReference.cache
+C:\Users\LS8310534056\Desktop\LITTLE PROJECTS\curso-c-sharp-alura\aulasPOO\01-ByteBank\01-ByteBank\obj\Debug\netcoreapp2.1\01-ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\LS8310534056\Desktop\LITTLE PROJECTS\curso-c-sharp-alura\aulasPOO\01-ByteBank\01-ByteBank\obj\Debug\netcoreapp2.1\01-ByteBank.AssemblyInfoInputs.cache
+C:\Users\LS8310534056\Desktop\LITTLE PROJECTS\curso-c-sharp-alura\aulasPOO\01-ByteBank\01-ByteBank\obj\Debug\netcoreapp2.1\01-ByteBank.AssemblyInfo.cs
+C:\Users\LS8310534056\Desktop\LITTLE PROJECTS\curso-c-sharp-alura\aulasPOO\01-ByteBank\01-ByteBank\obj\Debug\netcoreapp2.1\01-ByteBank.dll
+C:\Users\LS8310534056\Desktop\LITTLE PROJECTS\curso-c-sharp-alura\aulasPOO\01-ByteBank\01-ByteBank\obj\Debug\netcoreapp2.1\01-ByteBank.pdb
